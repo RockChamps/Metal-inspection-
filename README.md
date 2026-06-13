@@ -97,18 +97,5 @@ print(metadata['class'].value_counts())
 
 ---
 
-## License
 
-**CC BY 4.0** - Use freely with attribution.
-
----
-
-## Citation
-
-```
-@dataset{synthetic_metal_defects_2026,
-    title = {Synthetic Industrial Metal Surface Defect Dataset},
-    author = {Tatheer Abbas},
-    year = {2026}
-}
 ```
